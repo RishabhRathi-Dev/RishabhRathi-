@@ -5,7 +5,7 @@
 A Computer Science student from India. 
 
 #### About Me
-- 2nd year at VIT Bhopal
+- 3rd year at VIT Bhopal
 - I love coding in C# and Python
 - Crazy for tech, futuristic things and fiction
 - Still learning and Exploring
