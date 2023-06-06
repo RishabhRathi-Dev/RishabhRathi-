@@ -15,3 +15,8 @@ A Computer Science student from India.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRathi-Dev&theme=radical&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=RishabhRathi-Dev&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=RishabhRathi-Dev&theme=default" />
+</picture>
+
