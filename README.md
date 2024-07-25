@@ -19,6 +19,6 @@ A Computer Science student from India.
 
 [![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RishabhRathi-Dev&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRathi-Dev&theme=radical&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhRathi-Dev&size_weight=0.5&count_weight=0.5&theme=radical&hide=css,html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
