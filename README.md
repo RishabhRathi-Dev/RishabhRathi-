@@ -2,10 +2,9 @@
 
 ## I'm Rishabh Rathi
 
-A Computer Science student from India. 
+A Software Engineer from India. 
 
 #### About Me
-- Final Year student at VIT Bhopal
 - I love exploring different programming languages.
 - Crazy for tech, futuristic things and fiction
 - Still learning and Exploring
